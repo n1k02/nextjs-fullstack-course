@@ -1,0 +1,10 @@
+#this is really important and secret information, and that's why I posted it in the github public repository )
+#mongodb
+MONGO_URL=mongodb+srv://admin:admin@cluster0.yu2ccgd.mongodb.net/?retryWrites=true&w=majority
+TOKEN_SECRET=nextjscourse
+DOMAIN=http://localhost:3000
+
+#mailtrap
+MAILER_USER=ba613e512219ab
+MAILER_PASSWORD=7c353ac1c1a23e
+
