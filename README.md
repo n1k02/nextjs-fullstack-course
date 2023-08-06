@@ -1,4 +1,4 @@
-#NEXTJS-FULLSTACK-APP
+## NEXTJS-FULLSTACK-APP
 The Next JS 13.4 fullstack +api +router app with login, signup, email verification 
 
 
